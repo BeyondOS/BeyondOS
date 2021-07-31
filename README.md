@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeyondOS
 - 👀 I’m interested in Internet of Things.
 - 🌱 I’m currently learning electronic theory.
-- 💞️ I’m looking to collaborate on brain theory an Internet of Things.
+- 💞️ I’m looking to collaborate on brain theory and Internet of Things.
 - 📫 How to reach me ? I think Github is enough for me 😄. 
 
 <!---
